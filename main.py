@@ -1,3 +1,13 @@
+# Proyecto Segundo Parcial - GUI con Base de Datos
+# Asignatura: Programación Orientada a Objetos
+# Jornada: Vespertina
+# Grupo:
+# Integrantes:
+# -
+# -
+# -
+# - 
+
 import sys
 
 from PySide6.QtWidgets import QApplication

@@ -1,3 +1,13 @@
+# Proyecto Segundo Parcial - GUI con Base de Datos
+# Asignatura: Programación Orientada a Objetos
+# Jornada: Vespertina
+# Grupo:
+# Integrantes:
+# -
+# -
+# -
+# -
+
 from datos.conexion import Conexion
 from dominio.servicio_bancario import ServicioBancario
 

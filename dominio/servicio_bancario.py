@@ -1,9 +1,12 @@
+# Proyecto Segundo Parcial - GUI con Base de Datos
+# Asignatura: Programación Orientada a Objetos
+# Jornada: Vespertina
+# Grupo:
 # Integrantes:
-# -- Gordillo Diana
-# -- Vidal Jostin
-# -- Plaza Edison
-# -- Chalen Camila
-
+# -
+# -
+# -
+# -
 
 class ServicioBancario:
     """Clase base que representa un servicio bancario general dentro del sistema."""
