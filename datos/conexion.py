@@ -3,10 +3,10 @@
 # Jornada: Vespertina
 # Grupo:
 # Integrantes:
-# -
-# -
-# -
-# -
+# - Gordillo Diana
+# - Vidal Jostin
+# - Plaza Edison
+# - Chalen Camila
 
 import sys
 
