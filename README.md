@@ -12,7 +12,7 @@ Es una aplicación de escritorio diseñada para gestionar servicios bancarios y 
 ## 3. Integrantes del grupo
 * Gordillo Diana
 * Vidal Jostin
-* Edison P.
+* Edison Plaza
 * Chalen Camila
 
 ## 4. Jornada
