@@ -50,12 +50,19 @@ Se utiliza una base de datos relacional denominada `SAP` que contiene una tabla 
 * **tipo_cuenta:** `VARCHAR(50) NOT NULL` (Ej. Cuenta Ahorro, Cuenta Corriente).
 
 ## 9. Capturas de pantalla de la GUI
-![Ventana Principal de la GUI](REEMPLAZA_ESTO_CON_EL_LINK_DE_TU_IMAGEN_DE_LA_INTERFAZ)
-> *Figura 1: Interfaz gráfica principal mostrando los campos de entrada, el ComboBox y los botones de acción.*
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 192442" src="https://github.com/user-attachments/assets/aba01b8d-da32-4f36-a8d0-7f89f017c5fe" />
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 192704" src="https://github.com/user-attachments/assets/14286045-5747-4645-83ef-5492465dccfd" />
 
 ## 10. Evidencia de conexión a la base de datos
-![Registros en SQL Server](REEMPLAZA_ESTO_CON_EL_LINK_DE_TU_IMAGEN_DE_SQL_SERVER)
-> *Figura 2: Consulta SELECT en SQL Server demostrando que los datos ingresados desde la GUI se almacenan correctamente en la tabla.*
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-07-11 191430" src="https://github.com/user-attachments/assets/c97c5882-f316-447f-b07e-0a9d8dc468a2" />
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-07-11 194411" src="https://github.com/user-attachments/assets/50922a85-dfd0-443b-b7da-c58853f7ff70" />
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 192429" src="https://github.com/user-attachments/assets/085af7b1-871b-4527-9861-356e4479ff5d" />
+
 
 ## 11. Enlace al video demostrativo
 [▶️ Haz clic aquí para ver el video demostrativo del sistema (Demostración CRUD)](REEMPLAZA_ESTO_CON_EL_LINK_DE_TU_VIDEO)
