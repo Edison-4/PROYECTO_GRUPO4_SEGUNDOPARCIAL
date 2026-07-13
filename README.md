@@ -67,6 +67,8 @@ Se utiliza una base de datos relacional denominada `SAP` que contiene una tabla 
 ## 11. Enlace al video demostrativo
 [▶️ Haz clic aquí para ver el video demostrativo del sistema (Demostración CRUD)](REEMPLAZA_ESTO_CON_EL_LINK_DE_TU_VIDEO)
 
+[▶️ Haz clic aquí para ver el video demostrativo del sistema (Demostración CRUD)](https://drive.google.com/file/d/1QfKs2C2J70-kCs0AEyCe6nhWzZcZEaJo/view?usp=sharing)
+
 ## 12. Explicación breve de las validaciones implementadas
 Para asegurar la integridad de la base de datos, el sistema valida la información antes de procesar cualquier transacción:
 * **Campos obligatorios:** Se verifica mediante condicionales que ningún campo de texto esté vacío.
